@@ -10,9 +10,9 @@ Collaborated with a team to develop a social media platform to boost the hiring 
 
 ---
 ### Technologies involved
- -  HyperText Markup Langauge, HTML5
- -  Cascading Style Sheet, CSS3
- -  JavaScript, ES6
+ -  HyperText Markup Langauge, HTML 5
+ -  Cascading Style Sheet, CSS 3
+ -  JavaScript, ES 6
  -  PHP
  -  XAMPP
  -  [Swiper.js](https://swiperjs.com/get-started)
